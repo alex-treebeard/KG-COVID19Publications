@@ -1,6 +1,7 @@
 # KG-COVID19Publications
 Publications about COVID-19 are rapidly growing at this moment. In order to provide an efficient and easy way for researchers to be kept updated and have an overview of the current publications, I created a knowledge graph for COVID-19 publications. The knowledge graph will be updated every week. 
 
+
 - Until 20-04-2020, 299,652 triples (based on 12116 publications) are in the current KG.
 
 ### Data resource 
